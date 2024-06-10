@@ -1,10 +1,12 @@
-## Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1> Hi,My name is Apiwit Boonyarit.You can call me tutor.  👋</h1>
+  <img src="https://www.facebook.com/photo?fbid=2055994538094917&set=a.316137738747281" />
 </div>
+ 
 
-<!--
-**slyphstia/Slyphstia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
@@ -16,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
